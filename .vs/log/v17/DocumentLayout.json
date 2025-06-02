@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\editpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\editpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\editpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\editpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\additem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\additem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\additem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\additem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\adminuserview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\adminuserview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\adminuserview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\adminuserview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\additem.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\additem.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\home.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\home.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\about.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\about.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\editpage.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\editpage.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\adminuserview.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\adminuserview.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\register.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\register.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\sessions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\sessions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|c:\\users\\manush g r\\onedrive\\desktop\\se2\\log\\log\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22F810C9-D8B5-40EC-80DD-AD9EB7C0F3BA}|log\\log.vbproj|solutionrelative:log\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Login.vb",
+              "RelativeDocumentMoniker": "log\\Login.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Login.vb [Design]",
+              "RelativeToolTip": "log\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-19T03:47:50.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.Designer.vb",
+              "RelativeDocumentMoniker": "log\\About.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.Designer.vb",
+              "RelativeToolTip": "log\\About.Designer.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:16:44.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "editpage.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.Designer.vb",
+              "RelativeDocumentMoniker": "log\\editpage.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.Designer.vb",
+              "RelativeToolTip": "log\\editpage.Designer.vb",
+              "ViewState": "AgIAAMABAAAAAAAAAAAcwNcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:14:53.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "additem.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.Designer.vb",
+              "RelativeDocumentMoniker": "log\\additem.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.Designer.vb",
+              "RelativeToolTip": "log\\additem.Designer.vb",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAuwCcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:13:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.Designer.vb",
+              "RelativeDocumentMoniker": "log\\Home.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.Designer.vb",
+              "RelativeToolTip": "log\\Home.Designer.vb",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAuwBcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:12:56.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Adminuserview.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.Designer.vb",
+              "RelativeDocumentMoniker": "log\\Adminuserview.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.Designer.vb",
+              "RelativeToolTip": "log\\Adminuserview.Designer.vb",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAuwAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:12:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "register.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.Designer.vb",
+              "RelativeDocumentMoniker": "log\\register.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.Designer.vb",
+              "RelativeToolTip": "log\\register.Designer.vb",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAuwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-25T06:03:31.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sessions.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\sessions.vb",
+              "RelativeDocumentMoniker": "log\\sessions.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\sessions.vb",
+              "RelativeToolTip": "log\\sessions.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T08:17:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.vb",
+              "RelativeDocumentMoniker": "log\\Home.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.vb [Design]",
+              "RelativeToolTip": "log\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T04:29:58.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.vb",
+              "RelativeDocumentMoniker": "log\\register.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.vb",
+              "RelativeToolTip": "log\\register.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T04:28:23.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.vb",
+              "RelativeDocumentMoniker": "log\\register.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\register.vb [Design]",
+              "RelativeToolTip": "log\\register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T04:23:02.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.vb",
+              "RelativeDocumentMoniker": "log\\Home.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Home.vb",
+              "RelativeToolTip": "log\\Home.vb",
+              "ViewState": "AgIAANsAAAAAAAAAAAAuwAIBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T04:41:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.vb",
+              "RelativeDocumentMoniker": "log\\About.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.vb",
+              "RelativeToolTip": "log\\About.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-31T14:20:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editpage.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.vb",
+              "RelativeDocumentMoniker": "log\\editpage.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.vb",
+              "RelativeToolTip": "log\\editpage.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T05:17:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editpage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.vb",
+              "RelativeDocumentMoniker": "log\\editpage.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\editpage.vb [Design]",
+              "RelativeToolTip": "log\\editpage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T14:05:38.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.vb",
+              "RelativeDocumentMoniker": "log\\About.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\About.vb [Design]",
+              "RelativeToolTip": "log\\About.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-14T04:34:02.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "additem.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.vb",
+              "RelativeDocumentMoniker": "log\\additem.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.vb",
+              "RelativeToolTip": "log\\additem.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-23T06:06:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "additem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.vb",
+              "RelativeDocumentMoniker": "log\\additem.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\additem.vb [Design]",
+              "RelativeToolTip": "log\\additem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-23T06:05:19.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Adminuserview.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.vb",
+              "RelativeDocumentMoniker": "log\\Adminuserview.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.vb",
+              "RelativeToolTip": "log\\Adminuserview.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-20T14:21:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Adminuserview.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.vb",
+              "RelativeDocumentMoniker": "log\\Adminuserview.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Adminuserview.vb [Design]",
+              "RelativeToolTip": "log\\Adminuserview.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-20T14:19:28.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Login.vb",
+              "RelativeDocumentMoniker": "log\\Login.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\Login.vb",
+              "RelativeToolTip": "log\\Login.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-15T08:46:32.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "log\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Manush G R\\OneDrive\\Desktop\\se2\\log\\log\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "log\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-15T08:53:44.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
